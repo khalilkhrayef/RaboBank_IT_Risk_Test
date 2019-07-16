@@ -1,0 +1,17 @@
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\nunit.engine.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\nunit.engine.api.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\TestProject.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\TestProject.pdb
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\nunit.framework.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\Test.exe
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\Test.pdb
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\Test.exe.config
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\nunit.framework.pdb
+C:\Users\kkhrayef\source\repos\Test\TestProject\bin\Debug\nunit.framework.xml
+C:\Users\kkhrayef\source\repos\Test\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\kkhrayef\source\repos\Test\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\kkhrayef\source\repos\Test\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\kkhrayef\source\repos\Test\TestProject\obj\Debug\TestProject.dll
+C:\Users\kkhrayef\source\repos\Test\TestProject\obj\Debug\TestProject.pdb
